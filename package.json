@@ -1,0 +1,13 @@
+{
+  "id": "kiwiirc",
+  "name": "KiwiIRC",
+  "version": "1.0.0",
+  "description": "Kiwi IRC",
+  "main": "index.js",
+  "author": "Tiago Alves <tralves@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://kiwiirc.com/nextclient/",
+    "hasNotificationSound": true
+  }
+}
