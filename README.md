@@ -11,7 +11,7 @@ cd Library/Application Support/Franz/recipes/dev # create the dev directory if n
 git clone https://github.com/tralves/franz-kiwiirc kiwiirc
 ```
 
-2. Add the new service in Franz. The service should appear under `development` tab.
+2. Add the new service in Franz. The service should appear under the `Development` tab.
 
 ### How to create your own Franz recipes:
 
